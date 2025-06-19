@@ -54,8 +54,8 @@
 ## 🔥 Fun Extras
 
 - 💡 "Always building something new, even if it's just in my head!"  
-- 🌱 Currently learning: **Next.js, TypeScript, and Machine Learning basics**  
-- 🕹️ Favorite hobby: Gaming and customizing Linux distros  
+- 🌱 Currently learning: **Node js, Machine Learning basics**  
+- 🕹️ Favorite hobby: Gaming and listening music 
 - ☕ I code better with: A cup of black coffee and some Lofi beats  
 
 ---
