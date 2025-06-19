@@ -10,23 +10,40 @@
 </p>
 
 ---
+![Status](https://img.shields.io/badge/Status-Working%20on%20cool%20stuff-success?style=for-the-badge&logo=vercel)
+![Stack](https://img.shields.io/badge/Stack-FullStack-blueviolet?style=for-the-badge&logo=code)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelTa-0&layout=compact&theme=tokyonight)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🎯 What I'm Building
 
-### ✅ Selected Projects
-- **Carbon** – A Flutter social app to promote eco-friendly habits. 🏆 *Honorable Mention @ INRIX Hack 2023*
-- **ChatBuzz** – TypeScript + Node.js Twitch overlay tool with OBS integration & OAuth.
-- **Restaurant Recommender** – Flask‑React app using sentiment analysis and geolocation.
-- **Finance Tracker** – ML-powered monthly budget predictor (Final Year Project).
-- **Multilingual Booking System** – Laravel plateform supporting English & Dutch for appointments.
-- **FoodDropper** – Minecraft plugin using Spigot API to enhance hunger mechanics.
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DelTa-0&show_icons=true&theme=radical" width="45%"/>
+
+</p>
 ---
 
 ## 💻 Tech Stack & Tools
 
 ```text
-Languages: JavaScript / TypeScript · Python · PHP · Dart · Java
-Frameworks: React · Vue.js · Django · Laravel · Flutter · Express
-Databases: MySQL · MongoDB · Supabase
+Languages: JavaScript / TypeScript · Python · PHP
+Frameworks: React  · Django · Express
+Databases: MySQL · MongoDB
 Tools: Git · Docker · Postman · Figma · REST API · JWT · Leaflet.js · Tailwind CSS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DelTa-0/DelTa-0/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+
+
+---
+
+## 🌐 Portfolio
+
+🚧 Portfolio Site (Coming Soon)
+
+---
