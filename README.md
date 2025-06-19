@@ -17,6 +17,13 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DelTa-0/DelTa-0/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 🎯 What I'm Building
 
 ## 📈 GitHub Stats
