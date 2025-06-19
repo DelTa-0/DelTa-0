@@ -17,7 +17,7 @@
 🎓 I'm a B.Sc. CSIT student at Orchid International College  
 🧠 Always exploring new tools, frameworks, and challenges  
 🎯 Currently working on full-stack apps and AI-driven systems  
-💬 Ask me about React, Django, Laravel, Vue, or Minecraft plugins 
+💬 Ask me about React, Django, Node , express
 
 
 ---
