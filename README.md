@@ -8,6 +8,17 @@
   <a href="https://www.linkedin.com/in/madhav-aryal-aab090308/"><img src="https://img.shields.io/badge/LinkedIn-Madhav%20Aryal-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:aryalmadhave123@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Coding Avatar"/>
+</p>
+---
+## 💼 About Me
+
+🎓 I'm a B.Sc. CSIT student at Orchid International College  
+🧠 Always exploring new tools, frameworks, and challenges  
+🎯 Currently working on full-stack apps and AI-driven systems  
+💬 Ask me about React, Django, Laravel, Vue, or Minecraft plugins 
+
 
 ---
 ![Status](https://img.shields.io/badge/Status-Working%20on%20cool%20stuff-success?style=for-the-badge&logo=vercel)
@@ -17,11 +28,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DelTa-0/DelTa-0/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ## 🎯 What I'm Building
@@ -41,9 +48,7 @@ Languages: JavaScript / TypeScript · Python · PHP
 Frameworks: React  · Django · Express
 Databases: MySQL · MongoDB
 Tools: Git · Docker · Postman · Figma · REST API · JWT · Leaflet.js · Tailwind CSS
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DelTa-0/DelTa-0/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
 
 
 
