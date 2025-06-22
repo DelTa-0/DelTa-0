@@ -44,6 +44,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelTa-0&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DelTa-0/DelTa-0/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
