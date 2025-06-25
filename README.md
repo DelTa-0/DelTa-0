@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=500&lines=Hey+there!+I'm+Madhav+Aryal;Fullstack+Dev+%7C+AI+Enthusiast;Always+learning+new+things..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAD&center=true&vCenter=true&width=550&height=50&lines=👋+Hey+there!+I'm+Madhav+Aryal;💻+Fullstack+Developer+%7C+AI+Explorer;🚀+Building+cool+things+with+code;🌱+Always+learning+something+new..." />
 </p>
+
 
 
 <p align="center">
