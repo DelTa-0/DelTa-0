@@ -46,9 +46,6 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DelTa-0/DelTa-0/main/github-metrics.svg" width="90%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DelTa-0&show_icons=true&theme=radical" width="48%"/>
