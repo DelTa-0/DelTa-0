@@ -4,6 +4,8 @@
 
 
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=00FFC2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Madhav+Aryal;💻+Fullstack+Developer+%7C+AI+Explorer;Loves+clean+code+and+UI+UX;Let%27s+connect+and+create!" />
 </p>
@@ -51,7 +53,9 @@
 
 
 ## 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DelTa-0&theme=radical" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DelTa-0&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelTa-0&layout=compact&theme=tokyonight" width="40%"/>
