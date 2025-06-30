@@ -26,6 +26,7 @@
 </p>
 
 
+
 ---
 
 ## 💼 About Me
@@ -73,7 +74,8 @@
 - 💡 "Always building something new, even if it's just in my head!"  
 - 🌱 Currently learning: **Node js, Machine Learning basics**  
 - 🕹️ Favorite hobby: Gaming and listening music 
-- ☕ I code better with: A cup of black coffee and some Lofi beats  
+- ☕ I code better with: A cup of black coffee and some Lofi beats
+
 
 ---
 
@@ -83,9 +85,9 @@
 
 ---
 
-## 🌐 Portfolio
-
-🚧 **Personal Portfolio Site** – _Coming Soon!_
+🌐 Portfolio
+🚧 Personal Portfolio Site – Currently under construction... but something awesome is on the way!
+🎯 Goal: One-stop hub for my projects, blogs, and coding adventures.
 
 ---
 
