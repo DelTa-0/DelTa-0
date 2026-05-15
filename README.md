@@ -86,7 +86,7 @@
 ---
 
 🌐 Portfolio
-🚧 Personal Portfolio Site – Currently under construction... but something awesome is on the way!
+(https://madhavaryal.netlify.app/)
 🎯 Goal: One-stop hub for my projects, blogs, and coding adventures.
 
 ---
