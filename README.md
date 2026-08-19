@@ -86,7 +86,7 @@
 ---
 
 🌐 Portfolio
-(https://madhavaryal.netlify.app/)
+(https://madhavaryal.vercel.app/)
 🎯 Goal: One-stop hub for my projects, blogs, and coding adventures.
 
 ---
